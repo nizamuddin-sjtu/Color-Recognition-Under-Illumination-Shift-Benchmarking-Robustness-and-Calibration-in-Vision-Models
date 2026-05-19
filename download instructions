@@ -1,0 +1,12 @@
+1. Open Kaggle.
+2. Visit the dataset page:
+   https://www.kaggle.com/datasets/nizamuddinmaitlo/different-colors-in-challenging-lightening-v2
+3. Download the dataset.
+4. Extract the dataset.
+5. Preserve the directory structure:
+
+<Color>/<Illumination>/<image>
+
+6. Place dataset under:
+
+./data/
